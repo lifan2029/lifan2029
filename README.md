@@ -33,5 +33,3 @@ I am a Backend PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lifan2029&theme=react&background=000000)](https://git.io/streak-stats)
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=lifan2029&theme=react-dark&hide_border=true&area=true)
